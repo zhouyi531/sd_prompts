@@ -1,0 +1,1174 @@
+Prompt
+complex 3d render ultra detailed of a beautiful porcelain profile woman android face, cyborg, robotic parts, 150 mm, beautiful studio soft light, rim light, vibrant details, luxurious cyberpunk, lace, hyperrealistic, anatomical, facial muscles, cable electric wires, microchip, elegant, beautiful background, octane render, H. R. Giger style, 8k, best quality, masterpiece, illustration, an extremely delicate and beautiful, extremely detailed ,CG ,unity ,wallpaper, (realistic, photo-realistic:1.37),Amazing, finely detail, masterpiece,best quality,official art, extremely detailed CG unity 8k wallpaper, absurdres, incredibly absurdres, <lora:japaneseDollLikeness_v10:0.1>, <lora:koreanDollLikeness_v10:0.5>, robot, silver halmet, full body, sitting
+Negative prompt
+illustration, 3d, sepia, painting, cartoons, sketch, (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, normal quality, ((monochrome)), ((grayscale:1.2)), futanari, full-package_futanari, penis_from_girl, newhalf, collapsed eyeshadow, multiple eyebrows, vaginas in breasts,holes on breasts, fleckles, stretched nipples, gigantic penis, nipples on buttocks, analog, analogphoto, signatre, logo,2 faces
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+33
+
+Prompt
+complex 3d render ultra detailed of a beautiful porcelain profile woman andriod face,cyborg, robotic parts, 150 mm, beautiful studio soft light, rim light, vibrant details, luxurious cyberpunk, lace, hyperrealistic, anatomical, facial muscles, cable electric wires, microchip, elegant, beautiful background, octane render, H. R. Giger style, 8k, best quality, masterpiece, illustration, an extremely delicate and beautiful, extremely detailed ,CG ,unity ,wallpaper, (realistic, photo-realistic:1.37),Amazing, finely detail, masterpiece,best quality,official art, extremely detailed CG unity 8k wallpaper, absurdres, incredibly absurdres,<lora:koreanDollLikeness_v15:0.5>, full body, sitting,((small body)),((thin leg)) ,(narrow waist:0.8),(((small body)))
+Negative prompt
+illustration, 3d, sepia, painting, cartoons, sketch, (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, normal quality, ((monochrome)), ((grayscale:1.2)), futanari, full-package_futanari, penis_from_girl, newhalf, collapsed eyeshadow, multiple eyebrows, vaginas in breasts,holes on breasts, fleckles, stretched nipples, gigantic penis, nipples on buttocks, analog, analogphoto, signatre, logo,2 faces
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+22
+
+Prompt
+TXT2IMG
+complex 3d render ultra detailed of a beautiful porcelain profile woman andriod face,cyborg, robotic parts, 150 mm, beautiful studio soft light, rim light, vibrant details, luxurious cyberpunk, lace, hyperrealistic, anatomical, facial muscles, cable electric wires, microchip, elegant, beautiful background, octane render, H. R. Giger style, 8k, best quality, masterpiece, illustration, an extremely delicate and beautiful, extremely detailed ,CG ,unity ,wallpaper, (realistic, photo-realistic:1.37),Amazing, finely detail, masterpiece,best quality,official art, extremely detailed CG unity 8k wallpaper, absurdres, incredibly absurdres,<lora:koreanDollLikeness_v15:0.5>, full body, sitting, ,(narrow waist:0.8),
+Negative prompt
+illustration, 3d, sepia, painting, cartoons, sketch, (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, normal quality, ((monochrome)), ((grayscale:1.2)), futanari, full-package_futanari, penis_from_girl, newhalf, collapsed eyeshadow, multiple eyebrows, vaginas in breasts,holes on breasts, fleckles, stretched nipples, gigantic penis, nipples on buttocks, analog, analogphoto, signatre, logo,2 faces
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+22
+
+Prompt
+complex 3d render ultra detailed of a beautiful porcelain profile woman andriod face,cyborg, robotic parts, 150 mm, beautiful studio soft light, rim light, vibrant details, luxurious cyberpunk, lace, hyperrealistic, anatomical, facial muscles, cable electric wires, microchip, elegant, beautiful background, octane render, H. R. Giger style, 8k, best quality, masterpiece, illustration, an extremely delicate and beautiful, extremely detailed ,CG ,unity ,wallpaper, (realistic, photo-realistic:1.37),Amazing, finely detail, masterpiece,best quality,official art, extremely detailed CG unity 8k wallpaper, absurdres, incredibly absurdres,<lora:koreanDollLikeness_v15:0.5>, full body, sitting, ,(narrow waist:0.8),
+Negative prompt
+illustration, 3d, sepia, painting, cartoons, sketch, (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, normal quality, ((monochrome)), ((grayscale:1.2)), futanari, full-package_futanari, penis_from_girl, newhalf, collapsed eyeshadow, multiple eyebrows, vaginas in breasts,holes on breasts, fleckles, stretched nipples, gigantic penis, nipples on buttocks, analog, analogphoto, signatre, logo,2 faces
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+22
+
+Prompt
+complex 3d render ultra detailed of a beautiful porcelain profile woman andriod face,cyborg, robotic parts, 150 mm, beautiful studio soft light, rim light, vibrant details, luxurious cyberpunk, lace, hyperrealistic, anatomical, facial muscles, cable electric wires, microchip, elegant, beautiful background, octane render, H. R. Giger style, 8k, best quality, masterpiece, illustration, an extremely delicate and beautiful, extremely detailed ,CG ,unity ,wallpaper, (realistic, photo-realistic:1.37),Amazing, finely detail, masterpiece,best quality,official art, extremely detailed CG unity 8k wallpaper, absurdres, incredibly absurdres,<lora:koreanDollLikeness_v15:0.5>, full body, sitting,((thin leg)) ,(narrow waist:0.8),
+Negative prompt
+illustration, 3d, sepia, painting, cartoons, sketch, (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, normal quality, ((monochrome)), ((grayscale:1.2)), futanari, full-package_futanari, penis_from_girl, newhalf, collapsed eyeshadow, multiple eyebrows, vaginas in breasts,holes on breasts, fleckles, stretched nipples, gigantic penis, nipples on buttocks, analog, analogphoto, signatre, logo,2 faces
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+22
+
+Prompt
+complex 3d render ultra detailed of a beautiful porcelain profile woman andriod face,cyborg, robotic parts, 150 mm, beautiful studio soft light, rim light, vibrant details, luxurious cyberpunk, lace, hyperrealistic, anatomical, facial muscles, cable electric wires, microchip, elegant, beautiful background, octane render, H. R. Giger style, 8k, best quality, masterpiece, illustration, an extremely delicate and beautiful, extremely detailed ,CG ,unity ,wallpaper, (realistic, photo-realistic:1.37),Amazing, finely detail, masterpiece,best quality,official art, extremely detailed CG unity 8k wallpaper, absurdres, incredibly absurdres,<lora:koreanDollLikeness_v15:0.5>, full body, sitting, ,(narrow waist:0.8)
+Negative prompt
+illustration, 3d, sepia, painting, cartoons, sketch, (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, normal quality, ((monochrome)), ((grayscale:1.2)), futanari, full-package_futanari, penis_from_girl, newhalf, collapsed eyeshadow, multiple eyebrows, vaginas in breasts,holes on breasts, fleckles, stretched nipples, gigantic penis, nipples on buttocks, analog, analogphoto, signatre, logo,2 faces
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+22
+
+Prompt
+1girl, highly detailed RAW photo, photorealistic, photo real, ultra high res, detailed shadow, best quality,(front lighting), standing, smile, ocean, sky, lip, long hair, eyelashes, mole_under_eye, blunt_bangs, (micro bikini:1.3), huge breast, from_above, (short_pants:1.2), coffee, (crop top:1.4)
+Negative prompt
+2girls, extra limbs, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), extra fingers, twisted hands, skin spots, acnes, skin blemishes, age spot, glans, extra heads, extra legs, extra arms, malformed limbs, ugly, blurry, out of frame, bad proportions, duplicate, deformed, mutation, morbid, mutilated, bad anatomy, depth of field, extra breasts, 2girls, extra limbs, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), extra fingers, twisted hands, skin spots, acnes, skin blemishes, age spot, glans, extra heads, extra legs, extra arms, malformed limbs, ugly, blurry, out of frame, bad proportions, duplicate, deformed, mutation, morbid, mutilated, bad anatomy, depth of field, extra breasts, 2girls, extra limbs, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), extra fingers, twisted hands, skin spots, acnes, skin blemishes, age spot, glans, extra heads, extra legs, extra arms, malformed limbs, ugly, blurry, out of frame, bad proportions, duplicate, deformed, mutation, morbid, mutilated, bad anatomy, depth of field, extra breasts, 2girls, extra limbs, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), extra fingers, twisted hands, skin spots, acnes, skin blemishes, age spot, glans, extra heads, extra legs, extra arms, malformed limbs, ugly, blurry, out of frame, bad proportions, duplicate, deformed, mutation, morbid, mutilated, bad anatomy, depth of field, extra breasts, 2girls, extra limbs, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), extra fingers, twisted hands, skin spots, acnes, skin blemishes, age spot, glans, extra heads, extra legs, extra arms, malformed limbs, ugly, blurry, out of frame, bad proportions, duplicate, deformed, mutation, morbid, mutilated, bad anatomy, depth of field, extra breasts, 2girls, extra limbs, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), extra fingers, twisted hands, skin spots, acnes, skin blemishes, age spot, glans, extra heads, extra legs, extra arms, malformed limbs, ugly, blurry, out of frame, bad proportions, duplicate, deformed, mutation, morbid, mutilated, bad anatomy, depth of field, extra breasts, (black_nails:1.3), ( animal ears:1.3)
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+50
+Model
+museV1_v1
+
+Prompt
+(RAW photo:1.2), (photorealistic:1.4),(intricate details:1.2),(masterpiece:1.3),(best quality:1.4), (ultra highres:1.2), cinema light, ultra high res,(detailed eyes),(detailed facial features),(detailed clothes features), sweater, HDR, 8k resolution, looking at viewer, skin tight, (shiny skin),(slender girl), dreamlike, nsfw, candles, candle light, white flowers, narrow waist, (extreme detailed illustration), bedroom, straight hair, long hair, black hair, light blue eyes, 1girl, cute, innocent, (smile), (innocent smile), skinny body, indoors, breasts, large breasts, busty,<lora:schoolmax25d_11:0.8> <lora:fte_futuanerV1:0.5>,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, backlight,(ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), deformed eyes, deformed lips, mutated hands, (poorly drawn hands:1.331), blurry, (bad anatomy:1.21), (bad proportions:1.331), three arms, extra limbs, extra legs, extra arms, extra hands, (more than 2 nipples:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), bad hands, missing fingers, extra digit, (futa:1.1), bad body, pubic hair, glans, easynegative, three feet, four feet,
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+20
+
+Prompt
+(RAW photo:1.2), (photorealistic:1.4),(intricate details:1.2),(masterpiece:1.3),(best quality:1.4), (ultra highres:1.2), cinema light, ultra high res,(detailed eyes),(detailed facial features),(detailed clothes features), sweater, HDR, 8k resolution, looking at viewer, skin tight, (shiny skin),(slender girl), dreamlike, nsfw, candles, candle light, white flowers, narrow waist, (extreme detailed illustration), bedroom, straight hair, long hair, black hair, light blue eyes, 1girl, cute, innocent, (smile), (innocent smile), skinny body, indoors, breasts, large breasts, busty,<lora:schoolmax25d_11:0.8> <lora:fte_futuanerV1:0.5>,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, backlight,(ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), deformed eyes, deformed lips, mutated hands, (poorly drawn hands:1.331), blurry, (bad anatomy:1.21), (bad proportions:1.331), three arms, extra limbs, extra legs, extra arms, extra hands, (more than 2 nipples:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), bad hands, missing fingers, extra digit, (futa:1.1), bad body, pubic hair, glans, easynegative, three feet, four feet,
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+20
+
+Prompt
+(RAW photo:1.2), (photorealistic:1.4),(intricate details:1.2),(masterpiece:1.3),(best quality:1.4), (ultra highres:1.2), cinema light, ultra high res,(detailed eyes),(detailed facial features),(detailed clothes features), sweater, HDR, 8k resolution, looking at viewer, skin tight, (shiny skin),(slender girl), dreamlike, nsfw, candles, candle light, white flowers, narrow waist, (extreme detailed illustration), bedroom, straight hair, long hair, black hair, light blue eyes, 1girl, cute, innocent, (smile), (innocent smile), skinny body, indoors, breasts, large breasts, busty,<lora:schoolmax25d_11:0.8> <lora:fte_futuanerV1:0.5>,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, backlight,(ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), deformed eyes, deformed lips, mutated hands, (poorly drawn hands:1.331), blurry, (bad anatomy:1.21), (bad proportions:1.331), three arms, extra limbs, extra legs, extra arms, extra hands, (more than 2 nipples:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), bad hands, missing fingers, extra digit, (futa:1.1), bad body, pubic hair, glans, easynegative, three feet, four feet,
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+20
+
+Prompt
+(RAW photo:1.2), (photorealistic:1.4),(intricate details:1.2),(masterpiece:1.3),(best quality:1.4), (ultra highres:1.2), cinema light, ultra high res,(detailed eyes),(detailed facial features),(detailed clothes features), sweater, HDR, 8k resolution, looking at viewer, skin tight, (shiny skin),(slender girl), dreamlike, nsfw, candles, candle light, white flowers, narrow waist, (extreme detailed illustration), bedroom, straight hair, long hair, black hair, light blue eyes, 1girl, cute, innocent, (smile), (innocent smile), skinny body, indoors, breasts, large breasts, busty,<lora:schoolmax25d_11:0.8> <lora:fte_futuanerV1:0.5>,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, backlight,(ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), deformed eyes, deformed lips, mutated hands, (poorly drawn hands:1.331), blurry, (bad anatomy:1.21), (bad proportions:1.331), three arms, extra limbs, extra legs, extra arms, extra hands, (more than 2 nipples:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), bad hands, missing fingers, extra digit, (futa:1.1), bad body, pubic hair, glans, easynegative, three feet, four feet,
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+20
+
+Prompt
+(RAW photo:1.2), (photorealistic:1.4),(intricate details:1.2),(masterpiece:1.3),(best quality:1.4), (ultra highres:1.2), cinema light, ultra high res,(detailed eyes),(detailed facial features),(detailed clothes features), sweater, nude, naked, topless, see through, nipples, pussy, vagina, HDR, 8k resolution, looking at viewer, skin tight, (shiny skin),(slender girl), dreamlike, nsfw, candles, candle light, white flowers, narrow waist, (extreme detailed illustration), bedroom, straight hair, long hair, black hair, light blue eyes, 1girl, cute, innocent, (smile), (innocent smile), skinny body, indoors, breasts, large breasts, busty,<lora:schoolmax25d_11:0.8> <lora:fte_futuanerV1:0.5>,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, backlight,(ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), deformed eyes, deformed lips, mutated hands, (poorly drawn hands:1.331), blurry, (bad anatomy:1.21), (bad proportions:1.331), three arms, extra limbs, extra legs, extra arms, extra hands, (more than 2 nipples:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), bad hands, missing fingers, extra digit, (futa:1.1), bad body, pubic hair, glans, easynegative, three feet, four feet,
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+20
+
+Prompt
+(RAW photo:1.2), (photorealistic:1.4),(intricate details:1.2),(masterpiece:1.3),(best quality:1.4), (ultra highres:1.2), cinema light, ultra high res,(detailed eyes),(detailed facial features),(detailed clothes features), sweater, HDR, 8k resolution, looking at viewer, skin tight, (shiny skin),(slender girl), dreamlike, nsfw, candles, candle light, white flowers, narrow waist, (extreme detailed illustration), bedroom, straight hair, long hair, black hair, light blue eyes, 1girl, cute, innocent, (smile), (innocent smile), skinny body, indoors, breasts, large breasts, busty,<lora:schoolmax25d_11:0.8> <lora:fte_futuanerV1:0.5>,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, backlight,(ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), deformed eyes, deformed lips, mutated hands, (poorly drawn hands:1.331), blurry, (bad anatomy:1.21), (bad proportions:1.331), three arms, extra limbs, extra legs, extra arms, extra hands, (more than 2 nipples:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), bad hands, missing fingers, extra digit, (futa:1.1), bad body, pubic hair, glans, easynegative, three feet, four feet,
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+20
+
+Prompt
+(RAW photo:1.2), (photorealistic:1.4),(intricate details:1.2),(masterpiece:1.3),(best quality:1.4), (ultra highres:1.2), cinema light, ultra high res,(detailed eyes),(detailed facial features),(detailed clothes features), sweater, nude, naked, topless, see through, nipples, pussy, vagina, HDR, 8k resolution, looking at viewer, skin tight, (shiny skin),(slender girl), dreamlike, nsfw, candles, candle light, white flowers, narrow waist, (extreme detailed illustration), bedroom, straight hair, long hair, black hair, light blue eyes, 1girl, cute, innocent, (smile), (innocent smile), skinny body, indoors, breasts, large breasts, busty,<lora:schoolmax25d_11:0.8> <lora:fte_futuanerV1:0.5>,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, backlight,(ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), deformed eyes, deformed lips, mutated hands, (poorly drawn hands:1.331), blurry, (bad anatomy:1.21), (bad proportions:1.331), three arms, extra limbs, extra legs, extra arms, extra hands, (more than 2 nipples:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), bad hands, missing fingers, extra digit, (futa:1.1), bad body, pubic hair, glans, easynegative, three feet, four feet,
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+20
+
+Prompt
+(RAW photo:1.2), (photorealistic:1.4),(intricate details:1.2),(masterpiece:1.3),(best quality:1.4), (ultra highres:1.2), cinema light, ultra high res,(detailed eyes),(detailed facial features),(detailed clothes features), sweater, nude, naked, topless, see through, nipples, pussy, vagina, HDR, 8k resolution, looking at viewer, skin tight, (shiny skin),(slender girl), dreamlike, nsfw, candles, candle light, white flowers, narrow waist, (extreme detailed illustration), bedroom, straight hair, long hair, black hair, light blue eyes, 1girl, cute, innocent, (smile), (innocent smile), skinny body, indoors, breasts, large breasts, busty,<lora:schoolmax25d_11:0.8> <lora:fte_futuanerV1:0.5>,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, backlight,(ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), deformed eyes, deformed lips, mutated hands, (poorly drawn hands:1.331), blurry, (bad anatomy:1.21), (bad proportions:1.331), three arms, extra limbs, extra legs, extra arms, extra hands, (more than 2 nipples:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), bad hands, missing fingers, extra digit, (futa:1.1), bad body, pubic hair, glans, easynegative, three feet, four feet,
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+20
+
+Prompt
+best quality, ultra high res, (photorealistic:1.4), 1 girl, looking at viewer, ulzzang-6500
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (outdoor:1.6), manboobs, backlight, double navel, mutad arms, hused arms
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+20
+
+Prompt
+best quality, ultra high res, (photorealistic:1.4), 1 girl, looking at viewer, ulzzang-6500
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (outdoor:1.6), manboobs, backlight, double navel, mutad arms, hused arms
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+20
+
+Prompt
+best quality, ultra high res, (photorealistic:1.4), 1 girl, looking at viewer, ulzzang-6500
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (outdoor:1.6), manboobs, backlight, double navel, mutad arms, hused arms
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+20
+
+Prompt
+best quality, ultra high res, (photorealistic:1.4), 1 girl, looking at viewer, ulzzang-6500
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (outdoor:1.6), manboobs, backlight, double navel, mutad arms, hused arms
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+20
+
+Prompt
+best quality, ultra high res, (photorealistic:1.4), 1 girl, looking at viewer, ulzzang-6500
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (outdoor:1.6), manboobs, backlight, double navel, mutad arms, hused arms
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+20
+
+Prompt
+<lora:ZhouShuyi:0.9>, (8k, RAW photo, photorealistic:1.25), ZhouShuyi, 1girl, Long blonde hair, (looking at viewer with a serene and goddess-like happiness:1.2), ( lipgloss, eyelashes, gloss-face, best quality, ultra highres, depth of field, chromatic aberration, caustics, Broad lighting, natural shading, 85mm, f/1.4, ISO 200, 1/160s:0.75)
+Negative prompt
+ng_deepnegative_v1_75t, bad_prompt_version2, paintings, sketches, (worst quality, low quality, normal quality:2), lowres, ((monochrome, grayscale)), skin spots, acnes, skin blemishes, age spot, backlight, ugly, Overexposure
+Sampler
+DPM++ SDE Karras
+CFG scale
+6
+Steps
+30
+
+Prompt
+ZhouShuyi, <lora:ZhouShuyi:1>,est quality, ultra high res, (photorealistic:1.4), 1girl, (black micro bikini:1.2), beach, curvy, busty, large breasts, (dark hair:1.2), looking at viewer,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, nsfw, nipples
+Sampler
+DPM++ 2M Karras
+CFG scale
+7
+Steps
+20
+
+Prompt
+ZhouShuyi, <lora:ZhouShuyi:1>,est quality, ultra high res, (photorealistic:1.4), 1girl, beach, curvy, busty, large breasts, (dark hair:1.2), looking at viewer,sexy, (nipples), (arms behind head:1.3), blush,Abdominal muscle
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, nsfw, nipples
+Sampler
+DPM++ 2M Karras
+CFG scale
+7
+Steps
+20
+
+Prompt
+k-pop,best quality, pink long hair, ultra high res, (photorealistic:1.4), 1girl,silver dress,(azur lane\),puffy nipples, nsfw, nude, pussy, hairy pussy hairs, small breasts, smiling, spreading pussy, ogasm<lora:inniesBetterVaginas_v11:0.4> ,(cum in pussy:1.1), (( pee)), pink hair, ocean, beach, sunlight, <lora:mikuya_v15:0.5> ,standing, stand up,peeing,
+Negative prompt
+EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, extra fingers, fewer fingers, Big breasts
+Sampler
+DPM++ 2S a Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+70
+
+Prompt
+<lora:ZhouShuyi:0.9>, (8k, RAW photo, photorealistic:1.25), ZhouShuyi,1girl, Long blonde hair, (looking at viewer with a serene and goddess-like happiness:1.2),( lipgloss, eyelashes, gloss-face, best quality,depth of field, ultra highres, depth of field, chromatic aberration, caustics, Broad lighting, natural shading, 85mm, f/1.4, ISO 200, 1/160s:0.75) <lora:mikuya_v15:1>
+Negative prompt
+ng_deepnegative_v1_75t, bad_prompt_version2, paintings, sketches, (worst quality, low quality, normal quality:2), lowres, ((monochrome, grayscale)), skin spots, acnes, skin blemishes, age spot, backlight, ugly, Overexposure
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+30
+
+Prompt
+4k, photo, realistic, 1 korean woman, naked, (full body),(parted lips), earrings, white hair, (looking at camera:1.6), pale skin, (detailed eyes:1.4), (ponytail), (thigh:1.3), sunset, lens flare, depth of field, <lora:breastInClass:1>
+Negative prompt
+ugly, anime, cartoon, hairy, painting, sketch, drawing, easynegative, foot, straps, glare, blurry, lowres, shadow, extra legs, hand, bad eye, child, (looking away)
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+49
+
+Prompt
+4k, photo, realistic, 1 korean woman, naked, (full body),(parted lips), earrings, white hair, (looking at camera:1.6), pale skin, (detailed eyes:1.4), (ponytail), (thigh:1.3), sunset, lens flare, depth of field, <lora:breastInClass:0.5>
+Negative prompt
+ugly, anime, cartoon, hairy, painting, sketch, drawing, easynegative, foot, straps, glare, blurry, lowres, shadow, extra legs, hand, bad eye, child, (looking away)
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+49
+
+Prompt
+4k, photo, realistic, 1 korean woman, naked, (full body),(parted lips), earrings, white hair, (looking at camera:1.6), pale skin, (detailed eyes:1.4), (ponytail), (thigh:1.3), sunset, lens flare, depth of field,
+Negative prompt
+ugly, anime, cartoon, hairy, painting, sketch, drawing, easynegative, foot, straps, glare, blurry, lowres, shadow, extra legs, hand, bad eye, child, (looking away)
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+49
+
+Prompt
+(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, 1 girl, cute, solo, beautiful detailed sky, detailed cafe, night, sitting, dating, (nose blush), (smile:1.15), (closed mouth) small breasts, beautiful detailed eyes, (collared shirt:1.1), night, wet, business attire, rain, white lace, (short hair:1.2), floating hair NovaFrogStyle, <lora:taiwanDollLikeness_v10:0.2>, <lora:koreanDollLikeness_v15:0.2>, <lora:japaneseDollLikeness_v10:0.2>, topless, <lora:breastinclassBetter_v13:0.3>,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (outdoor:1.6), manboobs, backlight,(ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), mutated hands, (poorly drawn hands:1.331), blurry, (bad anatomy:1.21), (bad proportions:1.331), extra limbs, (disfigured:1.331), (more than 2 nipples:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), bad hands, missing fingers, extra digit, (futa:1.1), bad body, NG_DeepNegative_V1_75T,pubic hair, glans,
+Model
+controlnetPreTrained_cannyV10
+CFG scale
+6.5
+Steps
+96
+Sampler
+PLMS
+
+Prompt
+(masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), masterpiece*portrait, realistic, 3d face, lustrous skin, hiqcgbody, 1girl, detailed skin texture, detailed cloth texture, nudity, full body, ultra detailed, 8k, intricate details, <lora:hipoly3DModelLora_v10:0.66>, <lora:fashionGirl_v45:0.22>, <lora:breastinclassBetter_v13:0.44>, <lora:japaneseDollLikeness_v10:0.22>
+Negative prompt
+(worst quality, low quality:1.4), watermark, logo, fewer fingers, more fingers, distorted fingers, bad anatomy
+Model
+0.6(facebombmix_v1) + 0.4(chikmix_V1)
+Sampler
+DPM++ SDE Karras
+CFG scale
+8
+Steps
+28
+
+Prompt
+(masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), masterpiece*portrait, realistic, 3d face, lustrous skin, hiqcgbody, 1girl, detailed skin texture, detailed cloth texture, nudity, <lora:hipoly3DModelLora_v10:0.66>, <lora:fashionGirl_v45:0.22>, <lora:breastinclassBetter_v13:0.44>, <lora:japaneseDollLikeness_v10:0.33>, (black clothing, white clothing, gold clothing)
+Negative prompt
+(worst quality, low quality:1.4), watermark, logo, fewer fingers, more fingers, distorted fingers, bad anatomy
+Model
+0.6(facebombmix_v1) + 0.4(chikmix_V1)
+Sampler
+DPM++ SDE Karras
+CFG scale
+8
+Steps
+28
+
+Prompt
+(masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), masterpiece*portrait, realistic, 3d face, lustrous skin, hiqcgbody, 1girl, detailed skin texture, detailed cloth texture, nudity, <lora:hipoly3DModelLora_v10:0.66>, <lora:fashionGirl_v45:0.22>, <lora:breastinclassBetter_v13:0.44>, <lora:japaneseDollLikeness_v10:0.33>, (black clothing, white clothing, gold clothing)
+Negative prompt
+(worst quality, low quality:1.4), watermark, logo, fewer fingers, more fingers, distorted fingers, bad anatomy
+Model
+0.6(facebombmix_v1) + 0.4(chikmix_V1)
+Sampler
+DPM++ SDE Karras
+CFG scale
+8
+Steps
+28
+
+Prompt
+(masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), masterpiece*portrait, realistic, 3d face, lustrous skin, hiqcgbody, 1girl, detailed skin texture, detailed cloth texture, upper body, nudity, <lora:hipoly3DModelLora_v10:0.66>, <lora:fashionGirl_v45:0.33>, <lora:breastinclassBetter_v13:0.5>, <lora:japaneseDollLikeness_v10:0.33>, black, white, gold
+Negative prompt
+(worst quality, low quality:1.4), watermark, logo, fewer fingers, more fingers, distorted fingers, bad anatomy
+Model
+0.6(facebombmix_v1) + 0.4(chikmix_V1)
+Sampler
+DPM++ SDE Karras
+CFG scale
+9
+Steps
+28
+
+Prompt
+(masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), masterpiece*portrait, realistic, 3d face, lustrous skin, hiqcgbody, 1girl, detailed skin texture, detailed cloth texture, nudity, full body, ultra detailed, 8k, intricate details, <lora:hipoly3DModelLora_v10:0.55>, <lora:fashionGirl_v45:0.22>, <lora:breastinclassBetter_v13:0.44>, <lora:japaneseDollLikeness_v10:0.22>
+Negative prompt
+(worst quality, low quality:1.4), watermark, logo, fewer fingers, more fingers, distorted fingers, bad anatomy
+Model
+0.6(facebombmix_v1) + 0.4(chikmix_V1)
+Sampler
+DPM++ SDE Karras
+CFG scale
+8
+Steps
+28
+
+Prompt
+solo, (22yo:1.3),(sharp focus:1.4), (Korean:1.1), 1 girl, (at the pool:1.3), (realistic humid skin:1.2), (beautifu face:1.1), detailed eyes, detailed face,(large breasts:1.2), (curvy body:1.1), bangs, depth of field, (nude:1.8), (naked body:1.1), best quality, ultra high res, (photorealistic:1.4), (aegyo sal:1), ((puffy eyes)), full body, spread legs, (ulzzang-6500:0.66), pink hair, (smile:1.1), purple_eyes, arms armsleeves only, stomach tattoo, stomach, <lora:anotherpureface_v10:0.3><lora:koreanDollLikeness_v15:0.3><lora:breastinclassBetter_v13:0.3>
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+CFG scale
+8
+Steps
+20
+
+Prompt
+solo, (22yo:1.3),(sharp focus:1.4), (Korean:1.1), 1 girl, (at the pool:1.3), (realistic humid skin:1.2), (beautifu face:1.1), detailed eyes, detailed face,(large breasts:1.2), (curvy body:1.1), bangs, depth of field, (nude:1.8), (naked body:1.1), best quality, ultra high res, (photorealistic:1.4), (aegyo sal:1), ((puffy eyes)), full body, spread legs, (ulzzang-6500:0.66), pink hair, (smile:1.1), purple_eyes, arms armsleeves only, stomach tattoo, stomach, <lora:anotherpureface_v10:0.5><lora:koreanDollLikeness_v15:0.5>
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+CFG scale
+8
+Steps
+20
+
+Prompt
+(8k, RAW photo:1.2),cityscape,(portrait:1.4),1girl,(long hair:1.31),earrings,(naked:1.6), nsfw, (topless:1.8), black panties, full body, bare nipple, thigh, necklace, pool, cinematic lighting, night, best quality, ultra high res, (photorealistic:1.3), POV ,(solo:1.1), (1girl:1.1), (looking at viewer:1.331),(natural breasts:1.4),(parted lips:1.1), (eyelashes:1.1), (happy:1.21), (depth of field:1.1), lens flare, (chromatic aberration:1.1), (caustics:1.1),pervert,curvy body,ulzzang-6500,(style-gbf:0.75),<lora:koreanDollLikeness_v10:0.31>, <lora:taiwanDollLikeness_v10:0.31>, <lora:nudifyLORAForGreat_v11:0.1>
+Negative prompt
+paintings, sketches, fingers, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (outdoor:1.6), backlight,(ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), mutated hands, (poorly drawn hands:1.5), blurry, (bad anatomy:1.21), (bad proportions:1.331), extra limbs, (disfigured:1.331), (more than 2 nipples:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), lowers, bad hands, missing fingers, extra digit, (futa:1.1),bad hands, missing fingers
+Sampler
+DPM++ 2M Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+28
+
+Prompt
+(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, 1 girl, cute, solo, beautiful detailed sky, detailed cafe, night, sitting, dating, (nose blush), (smile:1.15), (closed mouth) small breasts, beautiful detailed eyes, (collared shirt:1.1), night, wet, business attire, rain, white lace, (short hair:1.2), floating hair NovaFrogStyle, <lora:taiwanDollLikeness_v10:0.2>, <lora:koreanDollLikeness_v15:0.2>, <lora:japaneseDollLikeness_v10:0.2>, topless, <lora:breastinclassBetter_v13:0.3>,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (outdoor:1.6), manboobs, backlight,(ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), mutated hands, (poorly drawn hands:1.331), blurry, (bad anatomy:1.21), (bad proportions:1.331), extra limbs, (disfigured:1.331), (more than 2 nipples:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), bad hands, missing fingers, extra digit, (futa:1.1), bad body, NG_DeepNegative_V1_75T,pubic hair, glans,
+Model
+controlnetPreTrained_cannyV10
+CFG scale
+6.5
+Steps
+96
+Sampler
+PLMS
+
+Prompt
+1girl, best quality, ultra high res, naked, (photorealistic:1.4), <lora:stLouisLuxuriousWheels_v1:0.2>, <lora:nudify_v12:0.5>, <lora:koreanDollLikeness_v10:0.2>, <lora:japaneseDollLikeness_v10:0.3>, school, stage
+Negative prompt
+bright lantern, brightness, EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+6
+Steps
+20
+
+Prompt
+1girl, best quality, ultra high res, naked, (photorealistic:1.4), <lora:nudify_v12:1>, <lora:koreanDollLikeness_v10:0.2>, <lora:japaneseDollLikeness_v10:0.3>, high school, classroom, (stocking:1.2), grey hair
+Negative prompt
+bright lantern, brightness, EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+6
+Steps
+20
+
+Prompt
+1girl, best quality, ultra high res, naked, (photorealistic:1.4), <lora:stLouisLuxuriousWheels_v1:0.2>, <lora:nudify_v12:0.5>, <lora:koreanDollLikeness_v10:0.2>, <lora:japaneseDollLikeness_v10:0.3>
+Negative prompt
+bright lantern, brightness, EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+6
+Steps
+20
+
+Prompt
+a woman with long hair and a green shirt smiling at the camera with a bottle of beer in her hand
+Negative prompt
+EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand, EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand
+Sampler
+DPM++ 2M Karras
+CFG scale
+7
+Steps
+20
+
+Prompt
+nikon RAW photo,8 k,Fujifilm XT3,masterpiece, best quality, realistic, photorealistic,ultra detailed,extremely detailed face, 1girl, black_see_through_corset,luxury corset,squatting,<lora:povSquattingCowgirlLora_pscowgirl:.2> ithlinni, <lora:ithlinni__v1:1>
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand,
+Sampler
+DPM++ 2M Karras
+CFG scale
+8
+Steps
+50
+
+Prompt
+masterpiece, best quality,ultra detailed,extremely detailed face, 1girl,solo, lounging, a silky and luxurious robe in a deep red color, a glass of wine in her hand, relaxing on a plush sofa in front of a roaring fireplace with a content expression on her face <lora:ithlinni__v1:.9>
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand,(((mole)))
+Sampler
+DPM++ 2M Karras
+CFG scale
+8
+Steps
+50
+
+Prompt
+nikon RAW photo,8 k,Fujifilm XT3,masterpiece, best quality, realistic, photorealistic,ultra detailed,extremely detailed face, 1girl, heavy_sootiness_makeup,smoky_eye,hip-hop,cool,closed eyes,hip-hop shirt, hip-hop dancing in a night club,crowd,indoor,disco light in the dark,dark environment <lora:ithlinni__v1:.6>,ithlinni
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand,
+Sampler
+DPM++ 2M Karras
+CFG scale
+8
+Steps
+50
+
+Prompt
+<lora:ycy:0.8>, best quality, ultra high res, photorealistic, realistic, 1girl,medium hair, black hair, solo, black_eyes, earrings, cosplay_photo, photo_\(medium\), looking at viewer, smiling,upper body, beach , depth_of_field, blue sky, cloud, sunshine, bokeh, blurry_background, looking_at_viewer, photo_background
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+28
+
+Prompt
+<lora:ycy:1>, best quality, ultra high res, photorealistic, realistic, 1girl,full bodd, medium hair, black hair, solo, black_eyes, cosplay_photo, smiling, depth_of_field, bokeh, blurry_background, looking_at_viewer, photo_background,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+28
+
+Prompt
+<lora:ycy:0.8>, best quality, ultra high res, photorealistic, realistic, 1girl,medium hair, black hair, solo, black_eyes, earrings, cosplay_photo, photo_\(medium\), looking at viewer, smiling,full body, beach , depth_of_field, blue sky, cloud, sunshine, bokeh, blurry_background, looking_at_viewer, photo_background
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+28
+
+Prompt
+best quality, ultra high res, (photorealistic:1.4), 1girl, (camisole), black shorts, bare shoulders,cute, Kpop idol, stage light, (aegyo sal:1), (black hair:1), audience,facing front,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot
+Sampler
+DPM++ 2M Karras
+CFG scale
+7
+Steps
+20
+
+Prompt
+best quality, ultra high res, (photorealistic:1.4), 1girl, (camisole), black shorts, bare shoulders, black choker, cute, lace-trimmed thighhighs, Kpop idol, stage light, (aegyo sal:1), (black hair:1), audience, full body, (arms behind head:1.3),facing front, ulzzang-6500:1.0,(nipples),undress
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot
+Sampler
+DPM++ 2M Karras
+CFG scale
+7
+Steps
+20
+
+Prompt
+<lora:cnGirlYcy_v10:1>, best quality, ultra high res, photorealistic, realistic, 1girl,medium hair, black hair, solo, black_eyes, earrings, cosplay_photo, looking at viewer,full body, depth_of_field, sunshine, bokeh, blurry_background, looking_at_viewer, sexy dress
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+35
+
+Prompt
+<lora:cnGirlYcy_v10:1>, best quality, ultra high res, photorealistic, realistic, 1girl,medium hair, black hair, solo, black_eyes, earrings, cosplay_photo, looking at viewer,full body, depth_of_field, sunshine, bokeh, blurry_background, looking_at_viewer, white sexy dress
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+35
+
+Prompt
+TXT2IMG
+<lora:cnGirlYcy_v10:1>, best quality, ultra high res, photorealistic, realistic, 1girl,medium hair, black hair, solo, black_eyes, cosplay_photo, looking at viewer,full body, depth_of_field, sunshine, bokeh, blurry_background, looking_at_viewer, white sexy dress,big breast
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+35
+
+Prompt
+<lora:mix4:0.5>,mix4,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),1girl,cute,cityscape, night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+28
+
+Prompt
+<lora:mix4:0.5>,mix4,best quality, ultra high res, (photorealistic:1.4),sweater, long hair, solo focus, (full body), looking at viewer, facing front, closeup,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+28
+
+Prompt
+<lora:mix4:0.5>,mix4,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),1girl,cute,cityscape, night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+28
+
+Prompt
+1girl walking on the river, mix4, sweater, pillow, lips, open_mouth, realistic, photo_\(medium\), solo, stuffed_animal, stuffed_toy, teddy_bear,(masterpiece),(photorealistic:1.3), ultra-detailed, (high detailed skin:1.2),(best quality:1.0), (ultra highres:1.0), (ulzzang-6500:0.3), wavy detailed hair, long hair, sunshine, (beautiful detailed makeup), (sexually aroused blushing heavy breathing:1.0), floral theme flower petals scattered, (soft glow bloom:0.5) <lora:mix4_v10:0.5>
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (outdoor:1.6), manboobs, backlight,(ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), mutated hands, (poorly drawn hands:1.331), blurry, (bad anatomy:1.21), (bad proportions:1.331), extra limbs, (disfigured:1.331), (more than 2 nipples:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), bad hands, missing fingers, extra digit, (futa:1.1), bad body, ng_deepnegative_v1_75t, pubic hair, glans,
+Sampler
+DPM++ SDE Karras
+CFG scale
+8
+Steps
+28
+
+Prompt
+1girl walking on the river, mix4, sweater, lips, realistic, upper body, solo, holding a women bag, handbag, louis vuitton,(masterpiece),(photorealistic:1.3), ultra-detailed, (high detailed skin:1.2),(best quality:1.0), (ultra highres:1.0), (ulzzang-6500:0.3), wavy detailed hair, long hair, sunshine, (beautiful detailed makeup), (sexually aroused blushing heavy breathing:1.0), floral theme flower petals scattered, (soft glow bloom:0.5) <lora:mix4_v10:0.5>
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+CFG scale
+8
+Steps
+28
+
+Prompt
+<lora:cuteGirlMix4_v10:0.8>,nude,nsfw,
+Negative prompt
+EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand, EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand
+Sampler
+DPM++ 2M Karras
+CFG scale
+7
+Steps
+20
+
+Prompt
+TXT2IMG
+Random posture, (An extremely delicate and beautiful work), (masterpiece), 1girl, a girl in a white dress, highly detailed, waist leaking, ponytail contorted, charming expression, beautiful and clear eyes, green eye pupil, delicate necklace, delicate earrings, fairy ears, simple blurred background, extreme detail description, beautiful, charming, ultra-fine painting, delicate face, delicate figure, Fine collarbones, lovely lips, beautiful breasts, soft behind, <lora:cuteGirlMix4_v10:0.5>mix4,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),1girl,cute,cityscape, night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+28
+
+Prompt
+Random posture, (An extremely delicate and beautiful work), (masterpiece), 1girl, a girl in a white dress, highly detailed, waist leaking, ponytail contorted, charming expression, beautiful and clear eyes, green eye pupil, delicate necklace, delicate earrings, fairy ears, simple blurred background, extreme detail description, beautiful, charming, ultra-fine painting, delicate face, delicate figure, Fine collarbones, lovely lips, beautiful breasts, soft behind, <lora:cuteGirlMix4_v10:0.5>mix4,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),1girl,cute,cityscape, night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+28
+
+Prompt
+Random posture, (An extremely delicate and beautiful work), (masterpiece), 1girl, a girl in a white dress, highly detailed, waist leaking, ponytail contorted, charming expression, beautiful and clear eyes, green eye pupil, delicate necklace, delicate earrings, fairy ears, simple blurred background, extreme detail description, beautiful, charming, ultra-fine painting, delicate face, delicate figure, Fine collarbones, lovely lips, beautiful breasts, soft behind, <lora:cuteGirlMix4_v10:0.5>mix4,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),1girl,cute,cityscape, night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+28
+
+Prompt
+Random posture, (An extremely delicate and beautiful work), (masterpiece), 1girl, a girl in a white dress, highly detailed, waist leaking, ponytail contorted, charming expression, beautiful and clear eyes, green eye pupil, delicate necklace, delicate earrings, fairy ears, simple blurred background, extreme detail description, beautiful, charming, ultra-fine painting, delicate face, delicate figure, Fine collarbones, lovely lips, beautiful breasts, soft behind, <lora:cuteGirlMix4_v10:0.5>mix4,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),1girl,cute,cityscape, night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+28
+
+Prompt
+Random posture, (An extremely delicate and beautiful work), (masterpiece), 1girl, a girl in a white dress, highly detailed, waist leaking, ponytail contorted, charming expression, beautiful and clear eyes, green eye pupil, delicate necklace, delicate earrings, fairy ears, simple blurred background, extreme detail description, beautiful, charming, ultra-fine painting, delicate face, delicate figure, Fine collarbones, lovely lips, beautiful breasts, soft behind, <lora:cuteGirlMix4_v10:0.5>mix4,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),1girl,cute,cityscape, night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+28
+
+Prompt
+TXT2IMG
+Random posture, (An extremely delicate and beautiful work), (masterpiece), 1girl, a girl in a white dress, highly detailed, waist leaking, ponytail contorted, charming expression, beautiful and clear eyes, green eye pupil, delicate necklace, delicate earrings, fairy ears, simple blurred background, extreme detail description, beautiful, charming, ultra-fine painting, delicate face, delicate figure, Fine collarbones, lovely lips, beautiful breasts, soft behind, <lora:cuteGirlMix4_v10:0.5>mix4,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),1girl,cute,cityscape, night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+28
+
+Prompt
+Random posture, (An extremely delicate and beautiful work), (masterpiece), 1girl, a girl in a white dress, highly detailed, waist leaking, ponytail contorted, charming expression, beautiful and clear eyes, green eye pupil, delicate necklace, delicate earrings, fairy ears, simple blurred background, extreme detail description, beautiful, charming, ultra-fine painting, delicate face, delicate figure, Fine collarbones, lovely lips, beautiful breasts, soft behind, <lora:cuteGirlMix4_v10:0.5>mix4,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),1girl,cute,cityscape, night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+8
+Steps
+28
+
+Prompt
+(photorealistic:1.4),best quality, ultra high res, 4k, instagram, higly detailed, blue hair,ponytail ,silver dress, Louis,(luxurious wheels\) \(azur lane\),hair ornament, earrings, blue nails, pink eyes, VirtualGirl-Aim, medium breasts, long hair, crystal pendant, <lora:virtualgirlAim_v20:0.5> , <lora:stLouisLuxuriousWheels_v1:1>
+Negative prompt
+ng_deepnegative_v1_75t,paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, (monochrome), (grayscale), acnes,skin spots, skin blemishes, age spot,extra fingers,fewer fingers, nsfw,
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+36
+Sampler
+Euler a
+
+Prompt
+(photorealistic:1.4),best quality, ultra high res, 4k, instagram, higly detailed, blue hair,ponytail ,silver dress, Louis,(luxurious wheels\) \(azur lane\),hair ornament, earrings, blue nails, pink eyes, VirtualGirl-Aim, medium breasts, long hair, crystal pendant, full body shot, <lora:virtualgirlAim_v20:0.5> , <lora:stLouisLuxuriousWheels_v1:1>
+Negative prompt
+ng_deepnegative_v1_75t,paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, (monochrome), (grayscale), acnes,skin spots, skin blemishes, age spot,extra fingers,fewer fingers, nsfw,
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+36
+Sampler
+Euler a
+
+Prompt
+<lora:stLouisLuxuriousWheels_v1:1>,(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), (((nsfw))), (1girl), ((solo)),(aegyo sal:1),((dim light)), hair ornament, portrait, (long loose silver revealing dress:1.1), (blue long hair:1.3), nude, necklace, blue nails, cute, slim, sexy figure
+Negative prompt
+EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, extra fingers, fewer fingers,
+Sampler
+DPM++ 2M Karras
+CFG scale
+12
+Steps
+50
+
+Prompt
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37),st. louis \(luxurious wheels\) \(azur lane\),1girl,(Kpop idol), (aegyo sal:1),hair ornament, portrait, (long loose silver revealing dress:1.1), necklace, blue nails,cute,cityscape, night, rain, wet, professional lighting, photon mapping, radiosity, physically-based rendering,((shiny skin)), white skin.((full body,)),light smile,white roman shoes, blue hair, purple eyes, ponytail,<lora:stLouisLuxuriousWheels_v1:0.8>, <lora:koreanDollLikeness_v15:0.4>
+Negative prompt
+EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,{Multiple people},lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,extra fingers,fewer digits,extra limbs,extra arms,extra legs,malformed limbs,fused fingers,too many fingers,long neck,cross-eyed,mutated hands,polar lowres,bad body,bad proportions,gross proportions,text,error,missing fingers,missing arms,missing legs,extra digit,too many fingers,((mutated hands)),((malformed limbs,))extra hands,deformed legs,extra fingers, fused fingers, bad proportions, missing arms, missing legs, extra arms, extra legs ,missing hands, malformed limbs, extra fingers, extra fingers, fused fingers, bad proportions, missing arms, missing legs, ((extra arms)), extra legs ,missing hands, malformed limbs, extra fingers,bad anatomy,extra arms,mutated hands,extra fingers,mutated hands,
+Sampler
+DPM++ 2M Karras
+CFG scale
+7.5
+Steps
+30
+
+Prompt
+4k, photo, realistic,best quality,1girl,woman,smiling, portrait, casual wear, ,akinav1, <lora:akinaNakamori_v2:0.2>,
+Negative prompt
+EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,skin spots, acnes, skin blemishes, age spot, nude,large breast,nsfw
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+20
+
+Prompt
+best quality, ultra high res, (photorealistic:1.4,Seolhyun),<lora:seolhyunFromAOA_v10:1>,medium breasts,(exposed breasts), looking_at_viewer,parted lips,smiling, solo, (full body),NSFW,(revealing_monokini),(in a beach) ,(detailed face),
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)),bad hands,multiple fingers,multiple hands
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiCkpt
+CFG scale
+8
+Steps
+31
+
+Prompt
+<lora:Seolhyun:1>, (8K, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), ultra-detailed, ultra high res, Seolhyun, (wearing dress:1.4), (smile:1.2), (small breasts1.8),detailed face,looking at viewer, shiny eyes, floating hair,
+Negative prompt
+EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), ((naked1.4)), (bad_prompt_version2:0.4), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,((watermark:2)),((letters:1)), DeepNegative, (bad-hands-5:0.5), nsfw
+Sampler
+DPM++ 2M Karras
+CFG scale
+7
+Steps
+20
+
+Prompt
+<lora:Seolhyun:1>, (8K, best quality, masterpiece:1.2), (realistic, photo-realistic:1.4), ultra-detailed, ultra high res, Seolhyun, (wearing dress:1.4), (smile:1.2), (small breasts1.8),detailed face,looking at viewer, shiny eyes, floating hair,
+Negative prompt
+EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), ((naked1.4)), (bad_prompt_version2:0.4), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,((watermark:2)),((letters:1)), DeepNegative, (bad-hands-5:0.5), nsfw
+Sampler
+DPM++ 2M Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+30
+
+Prompt
+close-up portrait of Lisa Blackpink, (smiling:1.3), (maid dress:1.3), k-pop Idol, contrapposto, best quality, ultra high res, (photorealistic:1.3), 1girl, small breasts, (in a nighclub:1.3), beauty512, <lora:lisaBlackpink_v1:0.9>, cat ear head ornament
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (outdoor:1.6), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), lowers, bad hands, missing fingers, extra digit, (futa:1.1), logo, white letters, neg_realism512, neg_facelift512
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32
+CFG scale
+8
+Steps
+25
+
+Prompt
+close-up portrait of Lisa Blackpink, (smiling:1.5), (yellow dress:1.3), black shirt, k-pop Idol, contrapposto, best quality, ultra high res, (photorealistic:1.3), 1girl, small breasts, (in a nighclub:1.3), beauty512, <lora:lisaBlackpink_v1:0.9>, (big body), (red hair tone:1.6)
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (outdoor:1.6), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), lowers, bad hands, missing fingers, extra digit, (futa:1.1), logo, white letters, naked, neg_realism512, neg_facelift512
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32
+CFG scale
+8.5
+Steps
+26
+
+Prompt
+close-up portrait of Lisa Blackpink, (smiling:1.5), (black leotard:1.3), black shirt, k-pop Idol, contrapposto, best quality, ultra high res, (photorealistic:1.3), 1girl, small breasts, (in a nighclub:1.3), beauty512, <lora:Lisa Blackpink:0.8>
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (outdoor:1.6), manboobs, backlight,(ugly:1.3), (duplicate:1.3), (morbid:1.2), (mutilated:1.2), (tranny:1.3), mutated hands, (poorly drawn hands:1.3), blurry, (bad anatomy:1.2), (bad proportions:1.3), extra limbs, (disfigured:1.3), (more than 2 nipples:1.3), (missing arms:1.3), (extra legs:1.3), (fused fingers:1.6), (too many fingers:1.6), (unclear eyes:1.3), lowers, bad hands, missing fingers, extra digit, (futa:1.1), logo, white letters, naked, neg_realism512, neg_facelift512
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32
+CFG scale
+8
+Steps
+25
+
+Prompt
+4k, photo, realistic,best quality,1girl,woman,smiling, portrait, casual wear, ,akinav1, <lora:akinaNakamori_v2:0.2>,
+Negative prompt
+EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,skin spots, acnes, skin blemishes, age spot, nude,large breast,nsfw,
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+20
+
+Prompt
+4k, photo, realistic,best quality,1girl,woman,smiling, portrait, white dress ,akinav1, <lora:akinaNakamori_v2:0.2>,
+Negative prompt
+EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,skin spots, acnes, skin blemishes, age spot, nude,large breast,nsfw,(mole_on_face:2)
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+20
+
+Prompt
+photorealistic,best quality,realistic, masterpiece, an extremely delicate and beautiful, CG,extremely detailed ,highres, extremely detailed,depth of field, 1girl, tifa_lockhart,beautiful detailed girl,upper body, large breasts,realistic, backless outfit,looking back,ass focus,black_hair, long_hair,red eyes, beautiful detailed red eyes, light on face,
+Negative prompt
+nsfw,naked,(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), acnes, skin blemishes, bad anatomy,(long hair:1.4),DeepNegative,(fat:1.2),facing away, looking away,tilted head, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+25
+
+Prompt
+(photorealistic:1.4),best quality,realistic, masterpiece, an extremely delicate and beautiful, CG,extremely detailed ,highres, extremely detailed, 1girl, tifa_lockhart,beautiful detailed girl,full body, realistic,japanese clothes, beautiful detailed red eyes, light on face, cinematic lighting, <lora:koreanDollLikeness_v15:0.4>, <lora:tifa_v2.3:0.6>
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), acnes, skin blemishes, bad anatomy,(long hair:1.4),DeepNegative,(fat:1.2),facing away, looking away,tilted head, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+25
+
+Prompt
+photorealistic,best quality,realistic, masterpiece, an extremely delicate and beautiful, CG,extremely detailed ,highres, extremely detailed,depth of field, 1girl, tifa_lockhart,beautiful detailed girl,upper body, large breasts,realistic, ((kimono)),black_hair, long_hair,red eyes, beautiful detailed red eyes, light on face,
+Negative prompt
+nsfw,naked,(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), acnes, skin blemishes, bad anatomy,(long hair:1.4),DeepNegative,(fat:1.2),facing away, looking away,tilted head, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+25
+
+Prompt
+photorealistic,best quality,realistic, masterpiece, an extremely delicate and beautiful, CG,extremely detailed ,highres, extremely detailed,depth of field, 1girl, tifa_lockhart,beautiful detailed girl,upper body, looking at viewer,black_hair, long_hair,red eyes,( blouse),bow,armlet, beautiful detailed red eyes, light on face,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), acnes, skin blemishes, bad anatomy,(long hair:1.4),DeepNegative,(fat:1.2),facing away, looking away,tilted head, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+25
+
+Prompt
+close-up,(photorealistic:1.4),best quality,realistic, masterpiece, an extremely delicate and beautiful, CG,extremely detailed ,highres, extremely detailed,depth of field, 1girl, tifa_lockhart,beautiful detailed girl,upper body, realistic,suspender_skirt, tank_top, taut_shirt, black_hair, long_hair, beautiful detailed red eyes, light on face,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), acnes, skin blemishes, bad anatomy,(long hair:1.4),DeepNegative,(fat:1.2),facing away, looking away,tilted head, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+25
+
+Prompt
+photorealistic,best quality,realistic, masterpiece, an extremely delicate and beautiful, CG,extremely detailed ,highres, extremely detailed,depth of field, 1girl, tifa_lockhart,beautiful detailed girl,full body, large breasts,realistic, purple dress,black_hair, long_hair,red eyes, beautiful detailed red eyes, light on face,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), acnes, skin blemishes, bad anatomy,(long hair:1.4),DeepNegative,(fat:1.2),facing away, looking away,tilted head, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+25
+
+Prompt
+TXT2IMG
+photorealistic,best quality,realistic, masterpiece, an extremely delicate and beautiful, CG,extremely detailed ,highres, extremely detailed,depth of field, 1girl, tifa_lockhart,beautiful detailed girl,upper body,red lace underwear,red flowers, large breasts,realistic, backless outfit,looking back,ass focus,black_hair, long_hair,red eyes, beautiful detailed red eyes, light on face,
+Negative prompt
+nsfw,naked,(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), acnes, skin blemishes, bad anatomy,(long hair:1.4),DeepNegative,(fat:1.2),facing away, looking away,tilted head, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+25
+
+Prompt
+photorealistic,best quality,realistic, masterpiece, an extremely delicate and beautiful, CG,extremely detailed ,highres, extremely detailed,depth of field, 1girl, tifa_lockhart,beautiful detailed girl,upper body, large breasts,realistic, kimono,white lace underwear,black_hair, long_hair,red eyes, beautiful detailed red eyes, light on face,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), acnes, skin blemishes, bad anatomy,(long hair:1.4),DeepNegative,(fat:1.2),facing away, looking away,tilted head, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+25
+
+Prompt
+<lora:tifaMeenow_tifaV1:0.5>, <lora:koreanDollLikeness_v10:0.2>, (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, 1 girl,cute, solo, (tifa lockhart), (big breasts),(beautiful detailed eyes), (smile:1.2), (closed mouth), arms behind back, neon lights, cityscape, depth of field, dark intense shadows, sharp focus, cars, motion blur, motor bikes, depth of field, good composition, green glowing light, Final Fantasy VII, dating,(nose blush), single elbow pad, black hair, red shoes, muscular,abs,taut shirt,no bra,black skirt, thighhighs, full body, head rest, lips, pretty face, low-tied long hair, ((red_eyes)), yellow flowers, (night:1.3), intricate, bokeh, cinematic lighting, photon mapping, radiosity, physically-based rendering, (Tetsuya Nomura style)
+Negative prompt
+EasyNegative,Paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowers, normal quality, ((monochrome)), ((grayscales)), skin spots, acnes, skin blemishes, age spot, glans, (6 more fingers on one hand),(deformity), bad legs, error legs, bad feet, malformed limbs, extra limbs,(mutated hands and fingers:1.5 )
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+9
+Steps
+30
+
+Prompt
+<lora:tifaMeenow_tifaV1:0.5>, <lora:koreanDollLikeness_v10:0.2>, (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, 1 girl,cute, solo, (tifa lockhart), (huge breasts),(beautiful detailed eyes), (smile:1.2), (closed mouth), erotic pose, dancing, neon lights, cityscape, depth of field, dark intense shadows, sharp focus, cars, motion blur, motor bikes, depth of field, good composition, green glowing light, Final Fantasy VII, dating,(nose blush), single elbow pad, ankle boots, black hair, black thighhighs, red boots, elbow gloves, elbow pads, fingerless gloves, taut shirt, sports bra, (suspender black skirt), thighhighs, white tank top, full body, head rest, lips, pretty face, low-tied long hair, ((red_eyes)), yellow flowers, (night:1.3), intricate, bokeh, cinematic lighting, photon mapping, radiosity, physically-based rendering, (Tetsuya Nomura style)
+Negative prompt
+EasyNegative,Paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowers, normal quality, ((monochrome)), ((grayscales)), skin spots, acnes, skin blemishes, age spot, glans, (6 more fingers on one hand),(deformity), nsfw, bad legs, error legs, bad feet, malformed limbs, extra limbs
+Sampler
+DPM++ SDE Karras
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+9
+Steps
+30
+
+Prompt
+1 girl,collared dress,cute,blue eyes, (solo),detailed face, ponytail, dramatic angle, ,new york street, evening, rain,looking at viewer,pov, (ulzzang-6500:1.18), <lora:Mara32:0.46> <lora:tifaMeenow_tifaV2:0.5>
+Negative prompt
+NSFW,Imperfect face,(bad eyes),(Bad eyelashes),Asymmetric eyes,Blurred eyes,Unclear eyelashes,abdominal muscle,big nose,paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, ((monochrome)), (grayscale:1.2), head out of frame,(skin spots:1.2), acnes, (skin blemishes:1.2), age spot, glans,extra fingers,fewer fingers,(watermark:1.2),(letters:1.2)
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+20
+Sampler
+DDIM
+
+Prompt
+TXT2IMG
+(photorealistic:1.4),best quality,realistic, masterpiece, an extremely delicate and beautiful, CG,extremely detailed ,highres, extremely detailed, 1girl, tifa_lockhart,beautiful detailed girl,full body, realistic,beautiful detailed red eyes, light on face, cinematic lighting,smile,huge breasts,naked, red eyes, beautiful detailed red eyes,<lora:tifaMeenow_tifaV2:1>,full naked,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), acnes, skin blemishes, bad anatomy,(long hair:1.4),DeepNegative,(fat:1.2),facing away, looking away,tilted head, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,
+CFG scale
+7
+Steps
+18
+Sampler
+Euler
+
+Prompt
+TXT2IMG
+(photorealistic:1.4),best quality,realistic, masterpiece, an extremely delicate and beautiful, CG,extremely detailed ,highres, extremely detailed, 1girl, tifa_lockhart,beautiful detailed girl,full body, realistic,beautiful detailed red eyes, light on face, cinematic lighting,smile,huge breasts,naked, red eyes, beautiful detailed red eyes,full naked,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), acnes, skin blemishes, bad anatomy,(long hair:1.4),DeepNegative,(fat:1.2),facing away, looking away,tilted head, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,
+Model
+chilloutmix_NiPrunedFp32Fix
+CFG scale
+7
+Steps
+18
+Sampler
+Euler
+
+Prompt
+photorealistic,best quality,realistic, masterpiece, an extremely delicate and beautiful, CG,extremely detailed ,highres, extremely detailed,depth of field, 1girl, tifa_lockhart,beautiful detailed girl,upper body, looking at viewer,black_hair, long_hair,red eyes,(pink dress),bow, beautiful detailed red eyes, light on face,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), acnes, skin blemishes, bad anatomy,(long hair:1.4),DeepNegative,(fat:1.2),facing away, looking away,tilted head, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+25
+
+Prompt
+photorealistic,best quality,realistic, masterpiece, an extremely delicate and beautiful, CG,extremely detailed ,highres, extremely detailed,depth of field, 1girl, tifa_lockhart,beautiful detailed girl,upper body, looking at viewer,black_hair, long_hair,red eyes,(open-chest sweater),bow, beautiful detailed red eyes, light on face,
+Negative prompt
+(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), acnes, skin blemishes, bad anatomy,(long hair:1.4),DeepNegative,(fat:1.2),facing away, looking away,tilted head, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+25
+
+Prompt
+TXT2IMG
+ultra high res, (8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailed, {{perfect anatomy}}, (hand of Guido Daniele), (photorealistic:1.4), <lora:tifaMeenow_tifaV1:0.4>, <lora:koreanDollLikeness_v10:0.2>, (tifa lockhart), 1 girl, solo, dynamic pose, (black hair:1.4), medium breasts, (sharp and slim nose:1.33), (high nose:1.2), closed mouth:1.2, smile, laughing, (perfect hands), (five fingers each), (black rabbit ears, black leotard,bare shoulders,(fishnet pantyhose),white gloves,bowtie), indoors,
+Negative prompt
+paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (outdoor:1.6), glans, (asian), (asian_face:1.1),
+Model
+Realman_Good_Chillout_mix_Chilloutmix
+Sampler
+DPM++ SDE Karras
+CFG scale
+7
+Steps
+20
